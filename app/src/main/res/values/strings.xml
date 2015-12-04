@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">ListView</string>
+    <string-array name="models">
+        <item>Toyota</item>
+        <item>Audi</item>
+        <item>Ford</item>
+        <item>Jeep</item>
+        <item>Mazda</item>
+        <item>Shevrolet</item>
+        <item>Dodg</item>
+        <item>Vaz</item>
+        <item>Chery</item>
+        <item>Geely</item>
+        <item>Mitsubishi</item>
+        <item>Crysler</item>
+        <item>Renault</item>
+    </string-array>
+</resources>
